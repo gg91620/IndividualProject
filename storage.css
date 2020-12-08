@@ -1,0 +1,24 @@
+body, html {
+  height: 100%
+}
+
+body{
+    background-color:black;
+}
+
+
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color:white;
+  background-color:black;
+}
+
+/* Style the <hr> element */
+hr {
+  margin: auto;
+  width: 100%;
+}
